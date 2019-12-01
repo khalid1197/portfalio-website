@@ -1,0 +1,43 @@
+/**
+{
+	color: red ;
+}*/
+.form
+{
+	text-align: center;
+}
+body
+{
+	background-image: url(https://i.stack.imgur.com/LR5ab.png);
+	background-size: cover;
+}
+input,select
+{
+	margin: 10px 0  0 0;/* yaha pe marging means dono box me ki size */
+	padding: 10px;/* ya pe padding means box kitna rahna box ki size */
+}
+h1
+{
+	color: blue;
+}
+#Email
+{
+	
+	padding: 0 16px 0 0;
+}
+#DoB
+{
+	padding: 0 25px 0 0;
+}
+#gender
+{
+	padding: 0 20px 0 10px;
+}
+#pets
+{
+	padding: 0 40px 0 10px;
+}
+.submit
+{
+	padding: 0 0 0 1200px;
+}
